@@ -3,8 +3,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography.js`,
-      },
+        pathToConfigModule: `src/utils/typography.js`
+      }
     },
-  ],
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-favicon`,
+    'gatsby-plugin-offline'
+  ]
 };
