@@ -14,9 +14,9 @@ export default () => (
             <p>I'm currently based in London, UK, where I work in technology and games.</p>
             <h3>Work</h3>
             <p>I'm driven to create exceptional products, working across technical and creative disciplines. The best things happen at the crossroads between pursuits, and that's where I strive to be.</p>
-            <p>At <a href="https://www.maze-theory.com" target="_blank" rel="noopener">Maze Theory</a> I'm producing an unannounced major VR title for PlayStation 4 and PC.</p>
             <p>At <a href="https://www.sixtostart.com" target="_blank" rel="noopener">Six to Start</a> I worked on the world's leading fitness games, <a href="https://itunes.apple.com/gb/app/zombies-run/id503519713" target="_blank" rel="noopener">Zombies Run</a> and <a href="https://itunes.apple.com/gb/app/walk-fitness-tracker-game/id678971662" target="_blank" rel="noopener">The Walk</a>. I also co-created the <a href="https://www.zombiesvirtualrace.com" target="_blank" rel="noopener">Zombies, Run! Virtual Race</a> series.</p>
-            <p>I love to learn and share, and have spoken at conferences like <a href="https://xponorth.co.uk" target="_blank" rel="noopener">XpoNorth</a> and <a href="https://www.ukactive.com" target="_blank" rel="noopener">UKActive Flame</a>.</p>
+            <p>At <a href="https://www.maze-theory.com" target="_blank" rel="noopener">Maze Theory</a> I produced an unannounced major VR title for PlayStation 4 and PC.</p>
+            <p>I love to learn and share, and have spoken about new technology at <a href="https://xponorth.co.uk" target="_blank" rel="noopener">XpoNorth</a> and <a href="https://www.ukactive.com" target="_blank" rel="noopener">UKActive</a>.</p>
             <h3>Play</h3>
             <p>I make music, sometimes for <a href="https://store.steampowered.com/app/346460/Vector_36/" target="_blank" rel="noopener">games</a>. You can find my releases on <a href="https://music.equatr.co.uk/" target="_blank" rel="noopener">Bandcamp</a> and <a href="https://soundcloud.com/equatr" target="_blank" rel="noopener">SoundCloud</a>.</p>
             <h3>Contact</h3>
