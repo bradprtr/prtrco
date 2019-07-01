@@ -1,3 +1,3 @@
 # prtr.co
 
-A personal site.
+Personal site.
