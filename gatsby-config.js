@@ -1,12 +1,20 @@
 module.exports = {
+  siteMetadata: {
+    title: `Brad Porter`,
+    siteUrl: `https://www.prtr.co`,
+  },
   plugins: [
     {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography.js`
-      }
+    resolve: `gatsby-plugin-typography`,
+    options: {
+      pathToConfigModule: `src/utils/typography`,
     },
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-favicon`,
-  ]
-};
+  },
+  {
+    resolve: 'gatsby-plugin-manifest',
+    options: {
+      icon: 'src/images/favicon.png',
+    }
+  },
+],
+}
