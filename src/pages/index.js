@@ -12,7 +12,7 @@ const Home = () => (
     <div style={{ margin: `3rem auto`, maxWidth: 600 }}>
         <h1>Hi, I'm Brad.</h1>
         <div>
-            <p>I'm based in London, UK, where I work with digital products.</p>
+            <p>I'm based in London, UK.</p>
             <h3>Work</h3>
             <p>I'm currently on sabbatical, and open to discussing new opportunities.</p>
             <p>As Delivery Lead at <a href="https://www.red-badger.com" target="_blank" rel="noopener noreferrer">Red Badger</a>, I led end-to-end digital transformation teams for clients including <a href="https://www.nandos.co.uk" target="_blank" rel="noopener noreferrer">Nando's</a>, <a href="https://www.chase.co.uk" target="_blank" rel="noopener noreferrer">JPMorgan Chase</a>, and <a href="https://www.fortnumandmason.com" target="_blank" rel="noopener noreferrer">Fortnum & Mason</a>.</p>
